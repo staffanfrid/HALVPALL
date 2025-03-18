@@ -1,1 +1,1 @@
-candid-blini-325650.netlify.app
+https://candid-blini-325650.netlify.app
